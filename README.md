@@ -9,3 +9,6 @@ User-Register-Login-API-Using-Node.js-Express-Mongodb-jwt
 
 4. to acees the /admin in the GET method you need to change de "admin" false for true in the mongo compass, and to access 
 "/free" and "/admin" area you need to add your token in the header.
+
+
+observation: to change the main information of the project go to the .env
