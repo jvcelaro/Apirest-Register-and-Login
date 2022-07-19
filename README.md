@@ -12,3 +12,14 @@ User-Register-Login-API-Using-Node.js-Express-Mongodb-jwt
 
 
 observation: to change the main information of the project go to the .env
+
+
+
+
+
+
+
+
+
+
+Create By: João Vitor de Carvalho
